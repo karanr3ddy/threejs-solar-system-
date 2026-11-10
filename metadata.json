@@ -1,0 +1,6 @@
+{
+  "name": "Helios — 3D Solar System Orrery & Planetary Atlas",
+  "description": "An interactive 3D Solar System observatory built with Three.js and React Three Fiber for exploring planetary orbits, surface structures, moons, and astrophysical telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
